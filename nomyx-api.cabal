@@ -34,8 +34,8 @@ library
                      , wai
                      , wai-cors
                      , swagger2
-                     , Nomyx-Language
-                     , Nomyx-Core
+                     , nomyx-language
+                     , nomyx-core
                      , warp
                      , yaml
                      , bytestring
