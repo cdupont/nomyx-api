@@ -20,7 +20,7 @@ library
                      , Nomyx.Api.Api
                      , Nomyx.Api.Server
   ghc-options:         -Wall
-  build-depends:       base
+  build-depends:       base               >= 4.6 && < 5
                      , aeson
                      , text
                      , split
